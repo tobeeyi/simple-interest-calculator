@@ -1,0 +1,11 @@
+$ git branch -a
+* main
+  bug-fix-typo
+  remotes/origin/main
+  remotes/origin/bug-fix-typo
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
