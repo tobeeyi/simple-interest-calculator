@@ -1,0 +1,18 @@
+$ curl -s https://api.github.com/repos/tobeeyi/simple-interest-calculator | grep -E '"fork":|"parent":|"source":' -A 10
+
+  "fork": true,
+  "permissions": {
+    "admin": true,
+    "maintain": true,
+    "push": true,
+    "triage": true,
+    "pull": true
+  },
+  "parent": {
+    "id": 543210987,
+    "node_id": "R_kgDOHmXzZw",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
