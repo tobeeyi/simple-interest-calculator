@@ -1,0 +1,26 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "id": 123456789,
+  "number": 1,
+  "state": "closed",
+  "title": "Fix typo in simple interest formula",
+  "user": {
+    "login": "tobeeyi",
+    "id": 98765432
+  },
+  "head": {
+    "label": "tobeeyi:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "sha": "8a2c3b4d5e6f7g8h9i0j",
+    "user": {
+      "login": "tobeeyi"
+    },
+    "repo": {
+      "name": "simple-interest-calculator",
+      "full_name": "tobeeyi/simple-interest-calculator",
+      "private": false
+    }
+  }
+}
