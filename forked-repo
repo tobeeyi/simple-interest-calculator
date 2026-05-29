@@ -1,29 +1,10 @@
 $ curl -s https://api.github.com/repos/tobeeyi/github-final-project
 {
-  "id": 890123456,
-  "node_id": "R_kgDOMnZmXw",
   "name": "github-final-project",
   "full_name": "tobeeyi/github-final-project",
-  "private": false,
-  "owner": {
-    "login": "tobeeyi",
-    "id": 12345678
-  },
-  "html_url": "https://github.com/tobeeyi/github-final-project",
-  "description": "Kalkulator Bunga Sederhana",
   "fork": true,
-  "url": "https://api.github.com/repos/tobeeyi/github-final-project",
-  "forks_url": "https://api.github.com/repos/tobeeyi/github-final-project/forks",
   "parent": {
-    "id": 543210987,
     "name": "mcino-Introduction-to-Git-and-GitHub",
-    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-    "private": false
-  },
-  "source": {
-    "id": 543210987,
-    "name": "mcino-Introduction-to-Git-and-GitHub",
-    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-    "private": false
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   }
 }
