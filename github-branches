@@ -1,4 +1,4 @@
-user@the-environment:/home/project/github-final-project$ git branch -a
+$ git branch -a
   bug-fix-revert
   bug-fix-typo
 * main
