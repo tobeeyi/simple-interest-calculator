@@ -1,8 +1,8 @@
-user@the-environment:/home/project/github-final-project$ git checkout main
+$ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
-user@the-environment:/home/project/github-final-project$ git merge bug-fix-typo
+$ git merge bug-fix-typo
 Updating f10140a..8a2c3b4
 Fast-forward
  README.md | 2 +-
