@@ -1,3 +1,5 @@
-bug-fix-revert
+$ git branch -a
+  bug-fix-revert
   bug-fix-typo
 * main
+  remotes/origin/main
