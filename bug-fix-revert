@@ -1,13 +1,20 @@
 {
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "id": 998877665,
   "number": 1,
   "state": "closed",
-  "title": "Fix typo",
+  "title": "Fix typo in simple interest formula",
   "user": {
     "login": "tobeeyi"
   },
   "head": {
     "label": "tobeeyi:bug-fix-typo",
-    "ref": "bug-fix-typo"
+    "ref": "bug-fix-typo",
+    "sha": "8a2c3b4d5e6f7g8h9i0j",
+    "repo": {
+      "name": "github-final-project",
+      "full_name": "tobeeyi/github-final-project"
+    }
   },
   "base": {
     "label": "ibm-developer-skills-network:main",
